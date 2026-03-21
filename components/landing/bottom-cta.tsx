@@ -39,7 +39,7 @@ export function BottomCta() {
         <div className="mt-16 border-t border-border/50 pt-12 max-w-xl mx-auto text-center">
           <p className="text-sm font-semibold uppercase tracking-wider text-muted-foreground mb-4">Our story</p>
           <p className="text-muted-foreground leading-relaxed">
-            Calvin and Amir are two friends who share a deep passion for helping small businesses grow. Calvin, a serial founder, and Amir, an engineer from Google in San Francisco, kept watching great coaches struggle with the grind of sales — not because they lacked skill, but because they lacked time. So they combined their experience and built Repp with cutting edge technology to give every coach an unfair advantage.
+            Calvin built businesses from scratch using social media. Amir spent 4 years at Google watching billion-dollar companies grow — and noticed small businesses never got the same tools. So they built Repp to change that. Cutting-edge technology, finally built for coaches.
           </p>
         </div>
       </div>
