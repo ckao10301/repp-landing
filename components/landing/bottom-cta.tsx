@@ -39,7 +39,7 @@ export function BottomCta() {
         <div className="mt-16 border-t border-border/50 pt-12 max-w-xl mx-auto text-center">
           <p className="text-sm font-semibold uppercase tracking-wider text-muted-foreground mb-4">Our story</p>
           <p className="text-muted-foreground leading-relaxed">
-            Calvin built businesses from scratch using social media. Amir spent 4 years at Google watching billion-dollar companies grow — and noticed small businesses never got the same tools. So they built Repp to change that. Cutting-edge technology, finally built for coaches.
+            Calvin built businesses from scratch using social media. Amir spent 4 years at Google watching billion-dollar companies grow — and noticed small businesses never got the same tools. So they built Repp to change that. Cutting-edge technology from Silicon Valley, finally built for coaches.
           </p>
         </div>
       </div>
